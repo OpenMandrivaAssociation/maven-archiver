@@ -30,7 +30,7 @@
 
 Name:           maven-archiver
 Version:        2.4.1
-Release:        5
+Release:        7
 Summary:        Maven Archiver
 License:        ASL 2.0
 Group:          Development/Java
