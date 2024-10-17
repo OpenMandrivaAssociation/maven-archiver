@@ -5,7 +5,7 @@ Release:        8.1%{?dist}
 Epoch:          0
 Summary:        Maven Archiver
 License:        ASL 2.0
-URL:            http://maven.apache.org/shared/maven-archiver/
+URL:            https://maven.apache.org/shared/maven-archiver/
 Source0:        http://repo1.maven.org/maven2/org/apache/maven/%{name}/%{version}/%{name}-%{version}-source-release.zip
 BuildArch:      noarch
 
